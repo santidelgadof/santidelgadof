@@ -2,7 +2,7 @@
     <h1 align="center"> Hi 👋🏽, im Santiago</h1>
     <h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
         <ul>
-            <li>🔭 I'm a Computer Science engineer</li>
+            <li>🔭 I'm student of Computer Science engineer</li>
             <li>👨‍🎓 I'm learning Python and Julia at the moment</li>
             <li>💬 Ask me about anything you want</li>
             <li>📫 How to reach me: santiagodelgadoferreiro@gmail.com</li>
