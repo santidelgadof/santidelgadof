@@ -1,5 +1,5 @@
 <header align="left">
-    <h1 align="left">Hi 👋🏽, im Santiago </h1>
+    <h1 align="center"> Hi 👋🏽, im Santiago</h1>
     <h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
         <ul>
             <li>🔭 I'm a Computer Science engineer</li>
@@ -14,10 +14,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
     </div>
     <h2 align="center">Used IDE's</h2>
