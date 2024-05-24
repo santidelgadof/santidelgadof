@@ -1,6 +1,5 @@
 <header align="left">
     <h1 align="center"> Hi 👋🏽, im Santiago</h1>
-    <h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
         <ul>
             <li>🔭 I'm student of Computer Science Engineering</li>
             <li>👨‍🎓 I'm learning Python and Julia at the moment</li>
